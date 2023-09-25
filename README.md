@@ -5,7 +5,7 @@
   - 세부프로젝트2: 인공지능 기반 날씨 예보 데이터 생산 (김세원)
   
 ## 수업정보
-- 수업방식: 하이브리드 강의 
+- 수업방식: 하이브리드 강의 
 
 ## 시험정보
 - 중간고사: Take-home Exam 
@@ -22,7 +22,7 @@
 
 | 주차 | 수업내용 | 강의노트 | 코드 | 수업일 | 참고자료 | 과제 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 4 | 프로젝트 소개 | | | 2023.09.26 |  | | 
+| 4 | 프로젝트 소개 | | | 2023.09.26 | [담당조교](https://github.com/sejongresearch/2023.Mobility.PBL.B/blob/main/Mentor.md) | | 
 | 4 | 컴퓨터비전 <br> 입문 | [PDF](https://github.com/sejongresearch/2023.Mobility.PBL.B/blob/main/LectureNotes/%5B1%E1%84%8C%E1%85%A1%E1%86%BC%5D%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%A5%E1%84%87%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%AB%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%20(2023).pdf) | | 2023.09.26 |  [이론영상](https://youtu.be/y_7ROFzkS7E) | |
 | 4 | 딥러닝과 <br> 신경망 | [PDF](https://github.com/sejongresearch/2023.Mobility.PBL.B/blob/main/LectureNotes/%5B2%E1%84%8C%E1%85%A1%E1%86%BC%5D%20%E1%84%83%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A5%E1%84%82%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%20(2023).pdf) | | 2023.09.26 |  [이론영상](https://youtu.be/-CDG4fIJfe0) | |
 | 5 | 합성곱신경망 | [PDF](https://github.com/sejongresearch/2023.Mobility.PBL.B/blob/main/LectureNotes/%5B3%E1%84%8C%E1%85%A1%E1%86%BC%5D%20%E1%84%92%E1%85%A1%E1%86%B8%E1%84%89%E1%85%A5%E1%86%BC%E1%84%80%E1%85%A9%E1%86%B8%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%20(2023).pdf) | MNIST([Keras](https://www.kaggle.com/code/yukyungchoi/2022-dl-w3p1/notebook), [Pytorch](https://www.kaggle.com/code/dobarri/03-mnist-cnn)) <br/> CIFAR10([Keras-CPU](https://www.kaggle.com/code/yukyungchoi/2022-dl-w3-project-cpu/notebook), [Keras-GPU](https://www.kaggle.com/code/yukyungchoi/2022-dl-w3-project-gpu/notebook),[Pytorch](https://www.kaggle.com/code/leeseunghyeon99/2023-1-dls-w3-cifar10-cnn)) | 2023.10.03 |  [이론영상](https://youtu.be/NmUknzJqYG4) <br/> 실습영상: <br> [MNIST(Pytorch)](https://www.youtube.com/watch?v=J-9Lez2EoyM) <br/> [CIFAR10(Pytorch)](https://www.youtube.com/watch?v=nV5cU9IBG00)| |
